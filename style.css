@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .team h1{
+    text-align: center;
+  }
+  
+  .team {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .team h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .university {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+  }
+  
+  .university img {
+    width: 80px;
+    height: 80px;
+    border-radius: 5%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .university h3 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .univesity p {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .MENTOR {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+  }
+  
+  .MENTOR img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .MENTOR h3 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .MENTOR p {
+    font-size: 14px;
+    color: #666;
+  }
+
+  .ADVISOR {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+  }
+  
+  .ADVISOR img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .ADVISOR h3 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .ADVISOR p {
+    font-size: 14px;
+    color: #666;
+  }
+     
+    

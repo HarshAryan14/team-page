@@ -1,0 +1,2 @@
+EMAIL = abc@gmail.com
+CONTACT NO = 1234567890
